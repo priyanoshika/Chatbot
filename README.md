@@ -16,6 +16,6 @@ Experimental Sandbox: Includes a colab notebook/ directory for prototyping, test
 
 # Tech Stack
 
-Language: Python
-Dependency Management: uv
+Language: Python |
+Dependency Management: uv |
 Architecture: Retrieval-Augmented Generation (RAG)
