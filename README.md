@@ -1,8 +1,8 @@
-#AI Document Chatbot
+# AI Document Chatbot
 
 A modular, document-aware AI chatbot designed to ingest custom data and provide contextually accurate answers. Built with Python, this project uses a Retrieval-Augmented Generation (RAG) pipeline, allowing you to easily process your own documents and chat with them in real-time.
 
-#Features
+# Features
 
 Custom Knowledge Base: Drop your reference files into the docs/ folder and chat directly with your data.
 
@@ -14,7 +14,7 @@ Highly Configurable: Easily tweak model parameters, vector database settings, an
 
 Experimental Sandbox: Includes a colab notebook/ directory for prototyping, testing embeddings, and model experimentation.
 
-#Tech Stack
+# Tech Stack
 
 Language: Python
 Dependency Management: uv
